@@ -12,7 +12,7 @@ Epochs below the 66% confidence threshold are flagged as potential artifacts in 
 
 Annotations exported from Visbrain are merged with YASA’s automatic results to create the final hypnogram, providing an integrated view of automatic and manual scoring.
 
-# Name                    Version                   Build  Channel
+  Name                    Version                   Build  Channel
 ipython                   8.18.1                   pypi_0    pypi
 ipywidgets                8.1.7                    pypi_0    pypi
 matplotlib                3.9.4                    pypi_0    pypi
